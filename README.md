@@ -1,5 +1,7 @@
 # Sentiment-Based Product Recommendation System
 
+## Demo Link: https://product-recommender-app-eac6eec60705.herokuapp.com/
+
 This project builds an end-to-end **Sentiment-Based Product Recommendation System** for an e-commerce platform called **Ebuss**. The system recommends products to users based on:
 
 1. **Collaborative Filtering (Item-Based)** – to find products similar to what the user already likes
@@ -134,3 +136,4 @@ Machine Learning Engineer — _Ebuss (Case Study Project)_
 To improve product recommendations by incorporating **customer sentiment insights**, ensuring that **highly-rated and positively-reviewed products are prioritised** for each user.
 
 ---
+
